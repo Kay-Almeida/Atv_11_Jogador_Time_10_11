@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Atv_11_Jogador_Time_10_11" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Atv_11_Jogador_Time_10_11" parent="Base.Theme.Atv_11_Jogador_Time_10_11" />
+</resources>
